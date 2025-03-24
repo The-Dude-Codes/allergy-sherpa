@@ -1,0 +1,16 @@
+{
+  "name": "allergy-sherpa",
+  "version": "1.0.0",
+  "description": "An extension to help people with allergies find safe food options",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Add build script here\""
+  },
+  "keywords": [
+    "allergies",
+    "food",
+    "chrome-extension"
+  ],
+  "author": "",
+  "license": "MIT"
+}
