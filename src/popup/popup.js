@@ -13,4 +13,8 @@ function initializePopup() {
     
     // TODO: Populate UI with user data
   });
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9b01f81 (test)

@@ -17,4 +17,8 @@ chrome.runtime.onInstalled.addListener((details) => {
 });
 
 // Add other background functionality here
+<<<<<<< HEAD
 // For example: message listeners, web request handlers, etc.
+=======
+// For example: message listeners, web request handlers, etc.
+>>>>>>> 9b01f81 (test)

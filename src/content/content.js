@@ -31,4 +31,8 @@ function scanForMenuItems() {
 }
 
 // Run the initialization
+<<<<<<< HEAD
 initialize();
+=======
+initialize();
+>>>>>>> 9b01f81 (test)

@@ -9,4 +9,10 @@ Allergy Sherpa provides personalized guidance for individuals navigating food al
 - Coming soon!
 
 ## Getting Started
+<<<<<<< HEAD
 - Setup instructions will be added as development progresses
+=======
+- Setup instructions will be added as development progresses
+
+test
+>>>>>>> 9b01f81 (test)

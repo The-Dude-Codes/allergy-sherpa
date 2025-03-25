@@ -22,4 +22,8 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+<<<<<<< HEAD
 *.swo
+=======
+*.swo
+>>>>>>> 9b01f81 (test)
